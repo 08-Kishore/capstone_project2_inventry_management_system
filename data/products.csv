@@ -1,0 +1,51 @@
+product_id,name,category,price,reorder_level
+1,Wireless Mouse,Electronics,25.99,15
+2,Mechanical Keyboard,Electronics,79.99,10
+3,27-inch Monitor,Electronics,249.99,5
+4,USB-C Hub,Electronics,19.99,20
+5,Noise-Canceling Headphones,Electronics,149.99,8
+6,Bluetooth Speaker,Electronics,45.00,12
+7,External SSD 1TB,Electronics,99.99,10
+8,Webcam 1080p,Electronics,59.99,14
+9,Laptop Stand,Electronics,35.50,18
+10,HDMI Cable 6ft,Electronics,12.99,25
+11,Cotton T-Shirt,Apparel,15.00,30
+12,Slim Fit Jeans,Apparel,49.99,20
+13,Running Shoes,Apparel,89.99,12
+14,Hoodie,Apparel,39.99,15
+15,Waterproof Jacket,Apparel,119.99,8
+16,Woolen Beanie,Apparel,18.50,25
+17,Athletic Socks (3-pack),Apparel,12.99,40
+18,Leather Belt,Apparel,29.99,15
+19,Formal Dress Shirt,Apparel,45.00,10
+20,Canvas Backpack,Apparel,55.00,12
+21,Ceramic Coffee Mug,Home Goods,10.99,20
+22,Stainless Steel Water Bottle,Home Goods,22.50,25
+23,LED Desk Lamp,Home Goods,34.99,15
+24,Memory Foam Pillow,Home Goods,42.00,10
+25,Non-Stick Frying Pan,Home Goods,29.99,12
+26,French Press Coffee Maker,Home Goods,27.50,8
+27,Throw Blanket,Home Goods,24.99,15
+28,Scented Soy Candle,Home Goods,14.99,30
+29,Storage Basket,Home Goods,19.99,20
+30,Digital Kitchen Scale,Home Goods,18.99,14
+31,Ballpoint Pens (10-pack),Office Supplies,6.99,50
+32,Spiral Notebook,Office Supplies,4.50,40
+33,Desktop Stapler,Office Supplies,8.99,20
+34,Sticky Notes (Pack of 6),Office Supplies,5.99,45
+35,A4 Printer Paper (Ream),Office Supplies,7.50,30
+36,Document Organizer,Office Supplies,14.99,15
+37,Permanent Markers,Office Supplies,9.99,25
+38,Scissors,Office Supplies,4.99,20
+39,Desk Organizer Tray,Office Supplies,16.50,12
+40,Correction Tape,Office Supplies,3.50,35
+41,Yoga Mat,Sports & Outdoors,29.99,15
+42,Dumbbell Set (10 lbs),Sports & Outdoors,49.99,8
+43,Resistance Bands,Sports & Outdoors,15.99,25
+44,Camping Tent (2-Person),Sports & Outdoors,129.99,5
+45,Sleeping Bag,Sports & Outdoors,69.99,10
+46,LED Headlamp,Sports & Outdoors,21.99,18
+47,Cycling Helmet,Sports & Outdoors,45.00,12
+48,Portable Camp Stove,Sports & Outdoors,54.99,7
+49,Jump Rope,Sports & Outdoors,9.99,30
+50,Hiking Backpack,Sports & Outdoors,89.99,8

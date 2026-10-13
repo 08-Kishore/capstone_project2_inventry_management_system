@@ -1,0 +1,51 @@
+warehouse_id,warehouse_name,location
+1,Central Hub - Chennai,Chennai
+2,North Logistics - Delhi,Delhi
+3,West Depot - Mumbai,Mumbai
+4,South Hub - Bengaluru,Bengaluru
+5,East Fulfillment - Kolkata,Kolkata
+6,Central Hub 2 - Pune,Pune
+7,North Depot - Chandigarh,Chandigarh
+8,West Hub - Ahmedabad,Ahmedabad
+9,South Depot - Hyderabad,Hyderabad
+10,East Depot - Bhubaneswar,Bhubaneswar
+11,Coimbatore Storage - Unit 1,Coimbatore
+12,Coimbatore Storage - Unit 2,Coimbatore
+13,Madurai Hub,Madurai
+14,Trichy Depot,Tiruchirappalli
+15,Salem Fulfillment Center,Salem
+16,Kochi Port Warehouse,Kochi
+17,Trivandrum Logistics,Thiruvananthapuram
+18,Visakhapatnam Hub,Visakhapatnam
+19,Vijayawada Depot,Vijayawada
+20,Surat Logistics,Surat
+21,Jaipur Hub,Jaipur
+22,Lucknow Depot,Lucknow
+23,Kanpur Center,Kanpur
+24,Nagpur Hub,Nagpur
+25,Indore Depot,Indore
+26,Patna Logistics,Patna
+27,Bhopal Hub,Bhopal
+28,Vadodara Depot,Vadodara
+29,Ludhiana Center,Ludhiana
+30,Agra Hub,Agra
+31,Varanasi Depot,Varanasi
+32,Nashik Logistics,Nashik
+33,Faridabad Hub,Faridabad
+34,Meerut Depot,Meerut
+35,Rajkot Center,Rajkot
+36,Kalyan Hub,Kalyan
+37,Vasai Depot,Vasai
+38,Srinagar Logistics,Srinagar
+39,Dhanbad Hub,Dhanbad
+40,Amritsar Depot,Amritsar
+41,Navi Mumbai Hub,Navi Mumbai
+42,Allahabad Depot,Allahabad
+43,Ranchi Center,Ranchi
+44,Howrah Hub,Howrah
+45,Jabalpur Depot,Jabalpur
+46,Gwalior Logistics,Gwalior
+47,Jodhpur Hub,Jodhpur
+48,Raipur Depot,Raipur
+49,Kota Center,Kota
+50,Guwahati Hub,Guwahati

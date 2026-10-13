@@ -1,0 +1,51 @@
+supplier_id,supplier_name,contact_email,phone
+1,TechCorp Supplies,support@techcorp.com,555-0199
+2,Global Electronics Ltd,sales@globalelectronics.com,555-0188
+3,Apex Apparel Inc,contact@apexapparel.com,555-0177
+4,Urban Threads Co,info@urbanthreads.com,555-0166
+5,HomeStyle Goods,help@homestylegoods.com,555-0155
+6,KitchenPro Solutions,orders@kitchenpro.com,555-0144
+7,OfficeDepot Express,support@officedepotex.com,555-0133
+8,Stationery World,sales@stationeryworld.com,555-0122
+9,Outdoor Gear Corp,contact@outdoorgearcorp.com,555-0111
+10,Fitness First Supplies,info@fitnessfirstsup.com,555-0100
+11,Alpha Distribution,support@alphadist.com,555-0201
+12,Beta Wholesale,sales@betawholesale.com,555-0202
+13,Gamma Trade Group,contact@gammatrade.com,555-0203
+14,Delta Global,info@deltaglobal.com,555-0204
+15,Epsilon Merchants,help@epsilonmerchants.com,555-0205
+16,Zeta Partners,orders@zetapartners.com,555-0206
+17,Eta Enterprises,support@etaenterprises.com,555-0207
+18,Theta Industries,sales@thetaind.com,555-0208
+19,Iota Exports,contact@iotaexports.com,555-0209
+20,Kappa Logistics,info@kappalogistics.com,555-0210
+21,Lambda Supplies,support@lambdasupplies.com,555-0211
+22,Mu Goods,sales@mugoods.com,555-0212
+23,Nu Commerce,contact@nucommerce.com,555-0213
+24,Xi Trading,info@xitrading.com,555-0214
+25,Omicron Vendors,help@omicronvendors.com,555-0215
+26,Pi Distributors,orders@pidistributors.com,555-0216
+27,Rho Wholesale,support@rhowholesale.com,555-0217
+28,Sigma Partners,sales@sigmapartners.com,555-0218
+29,Tau Enterprises,contact@tauenterprises.com,555-0219
+30,Upsilon Trade,info@upsylontrade.com,555-0220
+31,Phi Global,support@phiglobal.com,555-0221
+32,Chi Merchants,sales@chimerchants.com,555-0222
+33,Psi Industries,contact@psiindustries.com,555-0223
+34,Omega Exports,info@omegaexports.com,555-0224
+35,Nexus Supplies,help@nexussupplies.com,555-0225
+36,Vortex Wholesale,orders@vortexwholesale.com,555-0226
+37,Summit Trade,support@summittrade.com,555-0227
+38,Pioneer Goods,sales@pioneergoods.com,555-0228
+39,Vanguard Commerce,contact@vanguardcommerce.com,555-0229
+40,Titan Trading,info@titantrading.com,555-0230
+41,Zenith Vendors,support@zenithvendors.com,555-0231
+42,Horizon Distributors,sales@horizondist.com,555-0232
+43,Matrix Wholesale,contact@matrixwholesale.com,555-0233
+44,Prime Partners,info@primepartners.com,555-0234
+45,Infinity Enterprises,help@infinityent.com,555-0235
+46,Quantum Trade,orders@quantumtrade.com,555-0236
+47,Dynamic Global,support@dynamicglobal.com,555-0237
+48,Vertex Merchants,sales@vertexmerchants.com,555-0238
+49,Pinnacle Industries,contact@pinnacleind.com,555-0239
+50,Apex Global Supplies,info@apexglobalsupplies.com,555-0240
