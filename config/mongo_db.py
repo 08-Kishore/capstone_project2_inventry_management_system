@@ -1,35 +1,26 @@
 import os
-from dotenv import load_dotenv
-from pymongo import MongoClient
+from importlib import import_module
 
-# Load environment variables from .env file
-load_dotenv()
+try:
+  MongoClient = import_module("pymongo").MongoClient
+except ModuleNotFoundError:
+  MongoClient = None
 
-
-def get_mongo_client():
-  """Establishes and returns a MongoDB client instance."""
-  try:
-    uri = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
-    client = MongoClient(uri)
-    # The ping command is cheap and verifies the connection
-    client.admin.command("ping")
-    print("Successfully connected to MongoDB.")
-    return client
-  except Exception as err:
-    print(f"Error connecting to MongoDB: {err}")
-    return None
+try:
+  load_dotenv = import_module("dotenv").load_dotenv
+  load_dotenv()
+except ModuleNotFoundError:
+  pass
 
 
 def get_mongo_db():
   """Returns the specific inventory database instance for audit logs."""
-  client = get_mongo_client()
-  if client:
+  try:
+    mongo_uri = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
+    client = MongoClient(mongo_uri)
+    client.admin.command("ping")
     db_name = os.getenv("MONGO_DB_NAME", "inventory_db")
     return client[db_name]
-  return None
-
-
-if __name__ == "__main__":
-  db = get_mongo_db()
-  if db is not None:
-    print(f"Connected to MongoDB database: {db.name}")
+  except Exception as err:
+    print(f"Error connecting to MongoDB: {err}")
+    return None
